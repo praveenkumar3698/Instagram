@@ -1,7 +1,1 @@
-com\test\instagram\hooks\hooks.class
-com\test\instagram\base\base.class
-com\test\instagram\pom\login_page.class
 com\test\instagram\testrunner\testrunner.class
-com\test\instagaram\action\action.class
-com\test\instagram\stepdefenitions\stepdefentions.class
-com\test\instagram\pom\reset.class

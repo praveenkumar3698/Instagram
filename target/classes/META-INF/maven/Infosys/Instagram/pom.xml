@@ -152,7 +152,7 @@
 							<addClasspath>true</addClasspath>
 							<!-- Replace with your actual fully qualified main
 							class -->
-							<mainClass>com.test.instagram.base</mainClass>
+							<mainClass>com.test.instagram.base.MainApp</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
